@@ -23,3 +23,6 @@ Motley Fool scraped earnings call transcripts (2017–2022), 18,755 transcripts 
 
 ---
 *Built by Sumaksharika Nainavarapu | [Portfolio](https://sumaksharika.com)*
+
+## 🌐 Live Demo
+**[View Live Dashboard](https://earnings-call-nlp-hpvrwqwv6rrtxlxnzat2seb.streamlit.app)**
