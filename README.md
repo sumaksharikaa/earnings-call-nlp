@@ -22,7 +22,7 @@ Python · HuggingFace Transformers · FinBERT · pandas · Streamlit · matplotl
 Motley Fool scraped earnings call transcripts (2017–2022), 18,755 transcripts across 2,876 tickers.
 
 ---
-*Built by Sumaksharika Nainavarapu | [Portfolio](https://sumaksharika.com)*
+*Built by Sumaksharika Nainavarapu*
 
 ## 🌐 Live Demo
 **[View Live Dashboard](https://earnings-call-nlp-hpvrwqwv6rrtxknzwt2seb.streamlit.app)**
